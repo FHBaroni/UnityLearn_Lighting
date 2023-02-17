@@ -68,15 +68,12 @@ PlayerSettings:
   androidRenderOutsideSafeArea: 0
   androidUseSwappy: 1
   androidBlitType: 1
-<<<<<<< HEAD
   androidResizableWindow: 0
   androidDefaultWindowWidth: 1920
   androidDefaultWindowHeight: 1080
   androidMinimumWindowWidth: 400
   androidMinimumWindowHeight: 300
   androidFullscreenMode: 1
-=======
->>>>>>> 5b8e52e3e04b23febf8871eb4e45942cae69c58b
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
   runInBackground: 1
@@ -130,10 +127,7 @@ PlayerSettings:
   vulkanEnableSetSRGBWrite: 0
   vulkanEnablePreTransform: 0
   vulkanEnableLateAcquireNextImage: 0
-<<<<<<< HEAD
   vulkanEnableCommandBufferRecycling: 1
-=======
->>>>>>> 5b8e52e3e04b23febf8871eb4e45942cae69c58b
   m_SupportedAspectRatios:
     4:3: 1
     5:4: 1
@@ -249,10 +243,7 @@ PlayerSettings:
   useCustomGradlePropertiesTemplate: 0
   useCustomProguardFile: 0
   AndroidTargetArchitectures: 1
-<<<<<<< HEAD
   AndroidTargetDevices: 0
-=======
->>>>>>> 5b8e52e3e04b23febf8871eb4e45942cae69c58b
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
@@ -269,10 +260,7 @@ PlayerSettings:
     height: 180
     banner: {fileID: 0}
   androidGamepadSupportLevel: 0
-<<<<<<< HEAD
   chromeosInputEmulation: 1
-=======
->>>>>>> 5b8e52e3e04b23febf8871eb4e45942cae69c58b
   AndroidMinifyWithR8: 0
   AndroidMinifyRelease: 0
   AndroidMinifyDebug: 0
@@ -364,10 +352,7 @@ PlayerSettings:
   cameraUsageDescription: 
   locationUsageDescription: 
   microphoneUsageDescription: 
-<<<<<<< HEAD
   bluetoothUsageDescription: 
-=======
->>>>>>> 5b8e52e3e04b23febf8871eb4e45942cae69c58b
   switchNMETAOverride: 
   switchNetLibKey: 
   switchSocketMemoryPoolSize: 6144
@@ -505,11 +490,8 @@ PlayerSettings:
   switchNetworkInterfaceManagerInitializeEnabled: 1
   switchPlayerConnectionEnabled: 1
   switchUseNewStyleFilepaths: 0
-<<<<<<< HEAD
   switchUseMicroSleepForYield: 1
   switchMicroSleepForYieldTime: 25
-=======
->>>>>>> 5b8e52e3e04b23febf8871eb4e45942cae69c58b
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
@@ -580,10 +562,7 @@ PlayerSettings:
   ps4videoRecordingFeaturesUsed: 0
   ps4contentSearchFeaturesUsed: 0
   ps4CompatibilityPS5: 0
-<<<<<<< HEAD
   ps4AllowPS5Detection: 0
-=======
->>>>>>> 5b8e52e3e04b23febf8871eb4e45942cae69c58b
   ps4GPU800MHz: 1
   ps4attribEyeToEyeDistanceSettingVR: 0
   ps4IncludedModules:
